@@ -1,0 +1,13 @@
+# Hunter-AI Dependencies
+# Core AI
+openai>=1.0.0
+anthropic>=0.30.0
+google-generativeai>=0.8.0
+requests>=2.31.0
+
+# DNS/Network
+dnspython>=2.4.0
+python-whois>=0.8.0
+
+# Utilities
+colorama>=0.4.6
